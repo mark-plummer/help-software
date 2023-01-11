@@ -1,3 +1,3 @@
 # help-software
 
-Help content for ThoughtSpot Software
+Playbook repository for ThoughtSpot Software help content
