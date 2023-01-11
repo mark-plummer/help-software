@@ -56,10 +56,10 @@ b, dt, strong, th {
 == {empty}
 ++++
 <div class="box-button-columns">
-  <div class="box-button"><a href="https://help-software-thoughtspot.netlify.app/software/latest" class="panel-2">
+  <div class="box-button"><a href="https://help-software-thoughtspot.netlify.app/software/8.4.1.sw" class="panel-2">
       <span><img src="_images/software.png" id="software-icon">
     <h2>
-      Cloud
+      Software
     </h2>
     <p>Deploy and manage ThoughtSpot in your own private cloud.</p></span>
     </a></div>
