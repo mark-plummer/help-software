@@ -19,11 +19,11 @@ command = "node_modules/.bin/antora antora-playbook.yml --stacktrace --log-forma
 [[redirects]]
   from = "https://help-cloud-thoughtspot.netlify.app/software/8.8.1.sw/"
   to = "https://help-cloud-thoughtspot.netlify.app/cloud/8.8.1.sw/index_help"
-  status = 301
+  status = 200
   force = true # COMMENT: ensure that we always redirect
 
 [[redirects]]
   from = "https://help-cloud-thoughtspot.netlify.app/software/8.4.1.sw/"
   to = "https://help-cloud-thoughtspot.netlify.app/cloud/8.4.1.sw/index_help"
-  status = 301
+  status = 200
   force = true # COMMENT: ensure that we always redirect
